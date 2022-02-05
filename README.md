@@ -8,7 +8,7 @@
 
 - 🔭  I’m interested in **Information Technology** fields, doing **DSA Problem Solving** and **Competitive Programming** in regular basis and always enthusiastic to learn new Technologies.
 
-- 🌱  I’m a ***B.TECH 2014-2018** passout student, **Information Technology** department from **Techno India College Of Technology(TIN)**. Currently I am doing **M.TECH in Bioinformatics Dept.(2020 - 2022)**, which is **Combination of Information Technology (around 70-75%) and Computational Biological Data Analysis (20-25%)** , from **Indian Institute of Information Technology Allahabad(IIIT - A)**.
+- 🌱  I’m a **B.TECH 2014-2018** passout student, **Information Technology** department from **Techno India College Of Technology(TIN)**. Currently I am doing **M.TECH in Bioinformatics Dept.(2020 - 2022)**, which is **Combination of Information Technology (around 70-75%) and Computational Biological Data Analysis (20-25%)** , from **Indian Institute of Information Technology Allahabad(IIIT - A)**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects, System Subjects(OS,DBMS,CN,DSA) projects, ML,Deep Learning project**.
 
