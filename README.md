@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects, System Subjects(OS,DBMS,CN,DSA) projects, ML,Deep Learning project**.
 
-- 👨‍💻 All of my projects are available in my **[Github Portfolio](https://github.com/Lazy-panda001)**
+- 👨‍💻 All of my projects are available in my **[Github Portfolio](https://github.com/Lazy-panda001)** and coding profile :  **[My Profile](https://linktr.ee/Lazy_panda001)**.
 
 - 📫 How to reach me **chowdhurykalyan.96@gmail.com**
 
