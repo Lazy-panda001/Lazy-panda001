@@ -77,6 +77,7 @@
  <a href = "https://www.facebook.com/kalyan.choudhury.001"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a> 
 
 </p>
+<p align="left">
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
@@ -90,6 +91,7 @@
     </td>
 </tr>
 </table>
+</p>
 ## ❤ Views and Followers
 <a href="https://github.com/Lazy-panda001/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Lazy-panda001">
