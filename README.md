@@ -83,6 +83,9 @@
     <td align='left' width="60">
         <a href = "https://www.instagram.com/kalyan_549/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     </td>
+    <td align='left' width="60">
+        <a href = "https://www.facebook.com/kalyan.choudhury.001"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a> 
+    </td>
 </tr>
 </table>
 </p>
