@@ -97,7 +97,9 @@
 
 ## ❤ Views and Followers:
 
+<p align="left">
 <a href="https://github.com/Lazy-panda001/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Lazy-panda001">
 </a>
 <a href="https://github.com/Lazy-panda001?tab=followers"><img src="https://img.shields.io/github/followers/Lazy-panda001?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
