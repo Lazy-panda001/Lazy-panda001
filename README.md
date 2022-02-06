@@ -69,29 +69,24 @@
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/kalyan-chowdhury/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/im_kalyan12"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/kalyan_549/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
- <a href = "https://www.facebook.com/kalyan.choudhury.001"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a> 
-
-</p>
-<p align="left">
-<table width="100" align='center'>
+<table width="100" align='left'>
 <tr>
-    <td align='center' width="60">
-        <a href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+    <td align='left' width="60">
+        <a href = "https://www.linkedin.com/in/kalyan-chowdhury/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     </td>
-    <td align='center' width="60">
-        <a href="https://www.instagram.com/07_ashutosh_dwivedi/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+    <td align='left' width="60">
+       <a href = "https://twitter.com/im_kalyan12"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     </td>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/ashutosh-dwivedi-b3025b196"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
+    <td align='left' width="60">
+        <a href = "https://www.instagram.com/kalyan_549/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     </td>
 </tr>
 </table>
 </p>
+
 ## ❤ Views and Followers
 <a href="https://github.com/Lazy-panda001/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Lazy-panda001">
