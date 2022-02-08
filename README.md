@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kalyan Chowdhury...(@Lazy_panda001)</h1>
 <h3 align="center">I'm a passionate Software Engineer, CS Enthusiastic from India.</h3>
