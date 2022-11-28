@@ -52,7 +52,7 @@
 
 <p align="center">
     <a href="https://github.com/Lazy-panda001/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kalyan Chowdhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazy-panda001&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kalyan Chowdhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazy-panda001&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -60,8 +60,12 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Lazy-panda001/github-readme-stats"><img alt="Kalyan Chowdhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lazy-panda001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Lazy-panda001/github-readme-stats"><img alt="Kalyan Chowdhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy-panda001&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Lazy-panda001/github-readme-stats"><img alt="Kalyan Chowdhury's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lazy-panda001&show_icons=true&count_private=true&theme=tokyonight" /></a>
+    
+    
+  <a href="https://github.com/Lazy-panda001/github-readme-stats"><img alt="Kalyan Chowdhury's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazy-panda001&langs_count=8&count_private=true&layout=compact&theme=tokyonight" /></a>
+  
+
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
