@@ -52,8 +52,9 @@
 
 <p align="center">
     <a href="https://github.com/Lazy-panda001/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kalyan Chowdhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazy-panda001&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kalyan Chowdhury's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lazy-panda001&theme=tokyonight&hide_border=false"/>
     </a>
+   
 </p>
 
 
@@ -74,7 +75,7 @@
 <br/>
 
 <a href="https://github.com/Lazy-panda001/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Lazy-panda001&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Lazy-panda001&theme=react-dark&area=true&hide_border=false" width="100%">
 </a>
 
 <br/>
